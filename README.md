@@ -1,5 +1,7 @@
 # DMail - Django Email Client
 
+Created - 28th August, 2020. Publicly Available - 31st January, 2024.
+
 ## Features
 
 - **Send Mail:**
